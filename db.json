@@ -1,0 +1,146 @@
+{
+  "users": [
+    {
+      "id": "c214",
+      "name": "shivam",
+      "email": "shivam@gmail.com",
+      "phone": "9874398574",
+      "city": "pune",
+      "password": "12345678"
+    },
+    {
+      "id": "215a",
+      "name": "ram",
+      "email": "ram11@gmail.com",
+      "phone": "9857439854",
+      "city": "ayodhya",
+      "password": "87654321"
+    },
+    {
+      "id": "dce8",
+      "name": "hamunan",
+      "email": "hanuman@gmail.com",
+      "phone": "9837589475",
+      "city": "karnatka",
+      "password": "12345678"
+    }
+  ],
+  "fooditems": [
+    {
+      "id": "1",
+      "name": "Delicious Pizza",
+      "price": 20,
+      "image": "./images/f1.png",
+      "category": "Pizza",
+      "stock": 5
+    },
+    {
+      "id": "2",
+      "name": "Delicious Burger",
+      "price": 15,
+      "image": "./images/f2.png",
+      "category": "Burger",
+      "stock": 15
+    },
+    {
+      "id": "3",
+      "name": "Paneer Tikka Pizza",
+      "price": 17,
+      "image": "./images/f3.png",
+      "category": "Pizza",
+      "stock": 25
+    },
+    {
+      "id": "4",
+      "name": "Delicious Pasta",
+      "price": 20,
+      "image": "./images/f4.png",
+      "category": "Pasta",
+      "stock": 8
+    },
+    {
+      "id": "5",
+      "name": "French Fries",
+      "price": 15,
+      "image": "./images/f5.png",
+      "category": "Fries",
+      "stock": 16
+    },
+    {
+      "id": "6",
+      "name": "Margharita Pizza",
+      "price": 20,
+      "image": "./images/f6.png",
+      "category": "Pizza",
+      "stock": 5
+    },
+    {
+      "id": "7",
+      "name": "Tasty Burger",
+      "price": 18,
+      "image": "./images/f7.png",
+      "category": "Burger",
+      "stock": 22
+    },
+    {
+      "id": "8",
+      "name": "Mharaja Mac Burger",
+      "price": 20,
+      "image": "./images/f8.png",
+      "category": "Burger",
+      "stock": 5,
+      "qty": 1
+    },
+    {
+      "id": "9",
+      "name": "Delicious Pasta",
+      "price": 25,
+      "image": "./images/f9.png",
+      "category": "Pasta",
+      "stock": 5,
+      "qty": 1
+    }
+  ],
+  "cart": [
+    {
+      "id": "2",
+      "name": "Delicious Burger",
+      "price": 15,
+      "image": "./images/f2.png",
+      "category": "Burger",
+      "stock": 15
+    },
+    {
+      "id": "3",
+      "name": "Paneer Tikka Pizza",
+      "price": 17,
+      "image": "./images/f3.png",
+      "category": "Pizza",
+      "stock": 25
+    },
+    {
+      "id": "6",
+      "name": "Margharita Pizza",
+      "price": 20,
+      "image": "./images/f6.png",
+      "category": "Pizza",
+      "stock": 5
+    },
+    {
+      "id": "2",
+      "name": "Delicious Burger",
+      "price": 15,
+      "image": "./images/f2.png",
+      "category": "Burger",
+      "stock": 15
+    },
+    {
+      "id": "1",
+      "name": "Delicious Pizza",
+      "price": 20,
+      "image": "./images/f1.png",
+      "category": "Pizza",
+      "stock": 5
+    }
+  ]
+}
